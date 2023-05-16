@@ -1,0 +1,10 @@
+langchain
+panel
+python-dotenv
+openai
+chromadb
+pypdf
+tiktoken
+panel
+unstructured
+docx2txt
