@@ -19,3 +19,7 @@ Document QA app powered by an LLM agent. You can upload any file in DOCX, PDF, a
   </a>
   </kbd>
 </p>
+
+### App URL
+
+[panel-doc-agent-qa](https://huggingface.co/spaces/chukypedro/panel-doc-agent-qa)
