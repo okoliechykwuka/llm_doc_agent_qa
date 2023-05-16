@@ -15,7 +15,7 @@ Document QA app powered by an LLM agent. You can upload any file in DOCX, PDF, a
 
 <p align="center"> 
   <kbd>
-    <a href="https://github.com/okoliechykwuka/llm_doc_agent_qa/" target="_blank"><img src="website/doc_agent.png">
+    <a href="https://github.com/okoliechykwuka/llm_doc_agent_qa/blob/main/" target="_blank"><img src="doc_agent.png">
   </a>
   </kbd>
 </p>
